@@ -53,14 +53,15 @@ Minecraft® is a trademark of Mojang Studios. This is an independent addon.
 
 ### Installation
 
-1. **Download** the addon files
-2. **Place** BP and RP folders in their respective directories
-3. **Enable** both packs in world settings
-4. **Enable** experimental features:
+1. **Go to [Releases](https://github.com/sujan0629/Soul-SMP-Bedrock/releases)**
+2. **Download** `SoulSMP_Complete_v1.0.0.mcaddon` from latest release
+3. **Double-click** the .mcaddon file to auto-install
+4. **Create new world** and enable both packs in settings
+5. **Enable** experimental features:
    - ✅ Beta APIs
    - ✅ Holiday Creator Features
-5. **Run** `/function setup` on first load
-6. **Type** `!shop` to open the Soul Shop
+6. **Run** `/function setup` on first load
+7. **Type** `!shop` to open the Soul Shop
 
 ### Requirements
 
