@@ -1,0 +1,39 @@
+{
+  "resource_pack_name": "Soul SMP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "soul_orb": {
+      "textures": "textures/items/soul_orb"
+    },
+    "strength_1": {
+      "textures": "textures/items/buffs/strength_1"
+    },
+    "strength_2": {
+      "textures": "textures/items/buffs/strength_2"
+    },
+    "strength_3": {
+      "textures": "textures/items/buffs/strength_3"
+    },
+    "resistance_1": {
+      "textures": "textures/items/buffs/resistance_1"
+    },
+    "resistance_2": {
+      "textures": "textures/items/buffs/resistance_2"
+    },
+    "resistance_3": {
+      "textures": "textures/items/buffs/resistance_3"
+    },
+    "regeneration_1": {
+      "textures": "textures/items/buffs/regeneration_1"
+    },
+    "regeneration_2": {
+      "textures": "textures/items/buffs/regeneration_2"
+    },
+    "regeneration_3": {
+      "textures": "textures/items/buffs/regeneration_3"
+    },
+    "soul_sigil": {
+      "textures": "textures/items/relics/soul_sigil"
+    }
+  }
+}

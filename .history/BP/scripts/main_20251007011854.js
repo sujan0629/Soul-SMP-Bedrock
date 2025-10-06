@@ -39,16 +39,16 @@ import { setupSoulShop } from "./ui/soulShop.js";
  * Initialize all Soul SMP systems
  */
 function initializeSoulSMP() {
-  debugLog("Soul SMP Addon Loading...", LogLevel.INFO);
+  console.warn("[Soul SMP] Initializing addon...");
   
   try {
     // Initialize scoreboard objectives
     initializeObjectives();
-    logSystemInit("Scoreboard Objectives");
+    console.warn("[Soul SMP] ✓ Scoreboard objectives initialized");
     
     // Setup core systems
     setupPlayerInitialization();
-    logSystemInit("Player Initialization");
+    console.warn("[Soul SMP] ✓ Player initialization setup");
     
     setupDeathHandler();
     console.warn("[Soul SMP] ✓ Death handler setup");
