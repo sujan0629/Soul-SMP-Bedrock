@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Test RP",
+    "description": "Minimal test",
+    "uuid": "12345678-1234-1234-1234-123456789abc",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "87654321-4321-4321-4321-cba987654321",
+      "version": [1, 0, 0]
+    }
+  ]
+}

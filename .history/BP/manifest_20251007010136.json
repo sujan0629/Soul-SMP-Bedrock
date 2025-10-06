@@ -11,13 +11,13 @@
     {
       "type": "data",
       "uuid": "b2c3d4e5-f6a7-4890-91c2-d3e4f5a67891",
-      "version": [1, 0, 6]
+      "version": [1, 0, 5]
     },
     {
       "type": "script",
       "language": "javascript",
       "uuid": "c3d4e5f6-a7b8-4901-92d3-e4f5a6b78902",
-      "version": [1, 0, 6],
+      "version": [1, 0, 5],
       "entry": "scripts/main.js"
     }
   ],
