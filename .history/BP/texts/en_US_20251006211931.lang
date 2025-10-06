@@ -1,0 +1,95 @@
+## Soul SMP Addon - Language File
+## Created by: Sujan Bhatta
+## Copyright © 2025 Sujan Bhatta
+
+## Items
+item.soul_orb.name=§5Soul Orb
+item.soul_sigil.name=§5✦ Soul Sigil
+
+## Buff Items - Strength
+item.strength_1.name=§cStrength I
+item.strength_2.name=§cStrength II
+item.strength_3.name=§cStrength III
+
+## Buff Items - Resistance
+item.resistance_1.name=§9Resistance I
+item.resistance_2.name=§9Resistance II
+item.resistance_3.name=§9Resistance III
+
+## Buff Items - Regeneration
+item.regeneration_1.name=§dRegeneration I
+item.regeneration_2.name=§dRegeneration II
+item.regeneration_3.name=§dRegeneration III
+
+## Item Descriptions
+item.soul_orb.desc=§7A crystallized soul. Collect these to purchase upgrades.
+item.soul_sigil.desc=§7Use to permanently increase your lives. §6Cost: 5 Orbs
+
+item.strength_1.desc=§7Hold in offhand for §cStrength I§7. §6Cost: 2 Orbs
+item.strength_2.desc=§7Hold in offhand for §cStrength II§7. §6Cost: 4 Orbs
+item.strength_3.desc=§7Hold in offhand for §cStrength III§7. §6Cost: 6 Orbs
+
+item.resistance_1.desc=§7Hold in offhand for §9Resistance I§7. §6Cost: 2 Orbs
+item.resistance_2.desc=§7Hold in offhand for §9Resistance II§7. §6Cost: 4 Orbs
+item.resistance_3.desc=§7Hold in offhand for §9Resistance III§7. §6Cost: 6 Orbs
+
+item.regeneration_1.desc=§7Hold in offhand for §dRegeneration I§7. §6Cost: 2 Orbs
+item.regeneration_2.desc=§7Hold in offhand for §dRegeneration II§7. §6Cost: 4 Orbs
+item.regeneration_3.desc=§7Hold in offhand for §dRegeneration III§7. §6Cost: 6 Orbs
+
+## System Messages
+soulSMP.death.title=§c§lYOU DIED!
+soulSMP.death.subtitle=§eLives Remaining: %s
+soulSMP.permadeath.title=§4§lPERMADEATH
+soulSMP.permadeath.subtitle=§7No Lives Remaining
+
+soulSMP.corruption.tier1=§e⚠ CORRUPTION TIER 1
+soulSMP.corruption.tier2=§6⚠ CORRUPTION TIER 2
+soulSMP.corruption.tier3=§4⚠ CORRUPTION TIER 3
+
+soulSMP.welcome.title=§6Welcome to Soul SMP!
+soulSMP.welcome.subtitle=§7Type !shop to begin
+
+## Commands
+command.shop.description=Open the Soul Shop
+command.info.description=View your Soul SMP stats
+command.reset.description=Reset your Soul SMP data (admin only)
+
+## HUD Messages
+hud.lives=§6Lives: §e%s/%s
+hud.orbs=§5⚫ Orbs: %s
+hud.corruption=§c⚠ CORRUPTION
+hud.buff=§a⚔ %s
+
+## Shop UI
+shop.main.title=§5§l✦ SOUL SHOP ✦
+shop.buffs.title=§6⚔ Buff Shop
+shop.hearts.title=§c❤ Extra Hearts Shop
+shop.sigil.title=§5✦ Soul Sigil
+
+shop.button.buffs=§6⚔ Buff Items
+shop.button.hearts=§c❤ Extra Hearts
+shop.button.sigil=§5✦ Soul Sigil
+shop.button.close=§7✖ Close
+shop.button.back=§e← Back
+
+shop.cost=§7Cost: §6%s orbs
+shop.purchased=§a✓ Purchased!
+shop.insufficient=§cNot enough Soul Orbs!
+shop.maximum=§7Maximum reached!
+
+## Stats UI
+stats.title=§6YOUR SOUL SMP STATS
+stats.lives=Lives: %s/%s
+stats.orbs=Soul Orbs: %s
+stats.hearts=Extra Hearts: %s/%s
+stats.buff=Active Buff: %s
+stats.deaths=Total Deaths: %s
+
+## Notifications
+notify.life.lost=§e%s lost a life! (%s/%s remaining)
+notify.permadeath=§c%s has lost all lives!
+notify.sigil.used=§6%s used a Soul Sigil! Lives: %s/%s
+notify.heart.purchased=§a+1 Extra Heart! (%s/%s)
+notify.buff.activated=§aActive: %s
+notify.corruption.active=§c⚠ CORRUPTION ACTIVE!

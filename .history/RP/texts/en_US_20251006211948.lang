@@ -1,0 +1,26 @@
+## Soul SMP Addon - Resource Pack Language File
+## Created by: Sujan Bhatta
+## Copyright © 2025 Sujan Bhatta
+
+## Pack Info
+pack.name=Soul SMP Resource Pack
+pack.description=Textures and UI for Soul SMP
+
+## Items
+item.soul:soul_orb.name=§5Soul Orb
+item.soul:soul_sigil.name=§5✦ Soul Sigil
+
+## Buff Items - Strength
+item.soul:strength_1.name=§cStrength I
+item.soul:strength_2.name=§cStrength II
+item.soul:strength_3.name=§cStrength III
+
+## Buff Items - Resistance
+item.soul:resistance_1.name=§9Resistance I
+item.soul:resistance_2.name=§9Resistance II
+item.soul:resistance_3.name=§9Resistance III
+
+## Buff Items - Regeneration
+item.soul:regeneration_1.name=§dRegeneration I
+item.soul:regeneration_2.name=§dRegeneration II
+item.soul:regeneration_3.name=§dRegeneration III

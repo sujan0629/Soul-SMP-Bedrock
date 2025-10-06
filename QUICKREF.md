@@ -1,0 +1,94 @@
+# Soul SMP - Quick Reference Card
+
+## 🎮 Commands
+| Command | Description |
+|---------|-------------|
+| `!shop` | Open Soul Shop |
+| `!info` | View your stats |
+| `/function setup` | Initialize addon (admin, first-time) |
+| `/function reset_lives` | Reset all lives (admin) |
+| `/function debug_info` | Debug info |
+
+## ⚫ Soul Orbs
+- **Dropped:** 1 per player death
+- **Stack:** 64 max
+- **Warning:** 7+ orbs = corruption!
+
+## 💪 Buffs (Offhand Only)
+| Buff | Tier | Cost |
+|------|------|------|
+| Strength | I/II/III | 2/4/6 orbs |
+| Resistance | I/II/III | 2/4/6 orbs |
+| Regeneration | I/II/III | 2/4/6 orbs |
+
+**Combine:** Drop 2x Tier I → Tier II (Tier II+ cannot combine)
+
+## ❤️ Extra Hearts
+- **Cost:** 2 orbs per heart
+- **Max:** 5 hearts (+10 HP)
+- **Total HP:** 30 max
+- **Display:** Red hearts (❤) in HUD
+- **Death Penalty:** Lose 1 heart per death
+
+## ✦ Soul Sigil
+- **Cost:** 5 orbs
+- **Effect:** +1 permanent life
+- **Max:** Use until 15 lives
+- **Survives:** Death
+
+## ⚠️ Corruption
+| Orbs | Tier | Effects |
+|------|------|---------|
+| 0-6 | 0 | None |
+| 7-8 | 1 | Weakness II |
+| 9-11 | 2 | Weakness II + Hostile Mobs |
+| 12+ | 3 | Weakness II + Slowness I + Mobs |
+
+## 💀 Lives System
+- **Start:** 10 lives
+- **Max:** 15 lives
+- **Death:** -1 life, drop 1 orb, lose buffs, -1 extra heart
+- **0 Lives:** Permadeath (spectator)
+
+## 🛠️ Soul Orb Crafting
+- 4 Netherite Blocks
+- 4 Enchanted Golden Apples
+- 1 End Crystal
+- Pattern: N-A-N / A-C-A / N-A-N
+
+## 🎯 Strategy Tips
+1. **Early:** Buy hearts first (survive longer)
+2. **Mid:** Get Tier I buffs, combine to Tier II
+3. **Late:** Max hearts, Tier III buffs, Soul Sigils
+4. **Always:** Keep orbs below 7 to avoid corruption
+5. **PvP:** Consider life count before fighting
+
+## 🛠️ Troubleshooting
+- **No HUD?** Enable experimental features
+- **Items not working?** Run `/function setup`
+- **Shop won't open?** Type `!shop` (not `/shop`)
+- **Buffs not applying?** Must be in offhand
+
+## 📊 HUD Display
+```
+❤ Lives: ❤❤❤❤❤❤❤❤❤❤ 10/15  ⚫ Orbs: 3  +2❤
+⚠ CORRUPTION TIER 2
+⚔ Strength II
+```
+
+## 🎁 Give Commands (Admin/Creative)
+```
+/give @s soul:soul_orb <amount>
+/give @s soul:strength_1
+/give @s soul:soul_sigil
+```
+
+---
+
+**Quick Setup:**
+1. Enable experimental features
+2. `/function setup`
+3. `!shop` to play
+4. Have fun!
+
+**© 2025 Sujan Bhatta**

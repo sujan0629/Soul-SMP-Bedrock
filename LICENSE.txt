@@ -1,0 +1,12 @@
+Soul SMP Addon
+Created by: Sujan Bhatta
+Copyright © 2025 Sujan Bhatta
+
+This addon includes original scripts, textures, and game mechanics created by Sujan Bhatta.
+All original content in this addon is owned by Sujan Bhatta.
+
+Minecraft® is a trademark of Mojang Studios. 
+This addon is an independent creation and is not affiliated with or endorsed by Mojang Studios or Microsoft.
+
+Personal/private use is permitted. 
+Redistribution or modification without permission is prohibited.

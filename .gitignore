@@ -1,0 +1,7 @@
+build/
+*.mcpack
+*.mcaddon
+node_modules/
+.regolith/
+.DS_Store
+Thumbs.db
