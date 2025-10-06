@@ -2,13 +2,11 @@
 
 
 
-**A hardcore SMP experience with lives, soul orbs, buffs, and corruption****Created by:** Sujan Bhatta  
+**A hardcore SMP experience with lives, soul orbs, buffs, and corruption**
 
-**Copyright:** © 2025 Sujan Bhatta
+**Copyright © 2025 Sujan Bhatta - All Rights Reserved**
 
-**Created by:** Sujan Bhatta  
-
-**Copyright © 2025 Sujan Bhatta - All Rights Reserved**## About
+## About
 
 A competitive survival addon featuring:
 
