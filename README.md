@@ -1,4 +1,4 @@
-# 🌟 Soul SMP - Bedrock Edition# Soul SMP Addon
+# Soul SMP - Bedrock Edition# Soul SMP Addon
 
 
 
@@ -230,9 +230,3 @@ For installation help, gameplay questions, or bug reports:
 2. Check the [Gameplay Guide](docs/GAMEPLAY.md)
 3. Review the [Changelog](docs/CHANGELOG.md)
 4. Test in creative mode with `/give` commands
-
----
-
-**Made with ❤️ for Minecraft Bedrock Edition**
-
-**© 2025 Sujan Bhatta - All Rights Reserved**
